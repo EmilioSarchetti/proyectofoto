@@ -1,0 +1,96 @@
+Ciudades
+
+Yokuden (pradera nevada) (Dragones Cromaticos)
+WhiteRock (desierto) (mix elfos del desierto, tieflin, humanos y hombres lagarto)
+Ban Irro (montaña y bosque) (Elfos)
+Verdant City (comtaña pradera)
+Sunhaven (playa tropical)
+Sangmo (bosque nevado)
+Ekerri City (Tierra Colorada)
+Vittmal (montaña seca)
+Mazreaski (pantano ciudad oscura)
+
+
+Ciudades pequeñas
+
+--Broken Tusk (nieve) 
+--Aurora (nieve)
+--The Crown (nieve)
+--Talon (bosque pradera)
+--Eagle Cry (bosque pradera)
+--Cliffspring (desierto)
+--Namino Village (montaña bosque)
+--Tssami (Isla, montaña bosque)
+--Dawnshore (desierto)
+--Fortuneview (desierto)
+--Joland (pradera oceano)
+--Black Bone (montaña lava)
+--Lunaris (pradera)
+--Beyant (isla pradera)
+--Sand´s Truth (desierto)
+--Yashuna Village (isla montaña)
+--Mikabe (bosque)
+--Kiikuzen (minera)
+--Nakahata (bosque rio)
+--Kungo (montaña verde)
+--Theos (Rio y bosque)
+--Jestella (pradera rico bosque)
+--Enderlin village (lago, montaña bosque)
+--Goldwood (lago, bosque montaña)
+--Wellior (oceano, montaña bosque)
+--Beothos (Bosque, rico, cascada)
+SeaBreak (playa montaña)
+Tranquility (playa tropical)
+Warmtide (oceano, montaña playa)
+First Light (ciudad templo)
+Fingleam (prision playa puerto)
+Redbrook (tierra roja, frio)
+Rigsang (nieve montaña)
+Norbu (nieve montaña)
+Isulfrim (montaña nieve)
+Leng Shey (Lago nieve bosque)
+Kipti (desierto de sal)
+Korogmi (Sabana montaña)
+Potibajan (tierra roja montaña)
+Tamba (rio, cascada teirra roja)
+Tibnou (Tierra roja pantano seco)
+Kukumb (Costa, tierra roja)
+Laba (Costa, Sabana)
+Norshin (tierra encantada)
+Azpask (Arido, corrupto)
+Thro´Kiratt (costa, desierto)
+Tay´retik ((costa, arida)
+Kirkivasseh (Pantano, montaña, oscuro)
+
+Portales
+The Frigir Abyss (muerte)
+The Everstorm (FEY)
+The Ivory Chapel (Celestial)
+The Demon point (Infernal)
+
+DUNGEONS Obligadas
+The Wound
+Solstice
+The Sunken Organ
+The Towering Tombs
+Equinox
+The Refuge
+Assembly of Gods
+Chasm of Gloom
+Temple of the Blaze
+Temple of the Tempest
+Temple of the Blizzard
+Temple of the Eclipse
+
+Faros
+The Sentinel
+The Tip of the Spear
+The Sundial
+The Beacon
+The Final Fortress
+
+Dungeons Opcionales
+The Splinter
+The Divide
+The Plummet
+The Beating Heart
